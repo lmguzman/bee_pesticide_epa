@@ -1,4 +1,4 @@
-# Data analysis for Regulatory policies underestimate complexities of pesticide and species interactions in nature
+# Regulatory policies underestimate complexities of pesticide and species interactions in nature
 
 Laura Melissa Guzman, René S. Shahmohamadloo, Mathilde L. Tissier
 
