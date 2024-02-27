@@ -1,0 +1,11 @@
+Chemical_short,exposure_clean,length,units,value,lifestage
+Imidacloprid,oral,acute,µga.i/bee,0.0039,adult
+Imidacloprid,contact,acute,µga.i/bee,0.043,adult
+Clothianidin,oral,acute,μgc.e./bee,0.0037,adult
+Thiamethoxam,oral,acute,μgc.e./bee,0.0038,adult
+Clothianidin,contact,acute,μgc.e./bee,0.0275,adult
+Thiamethoxam,contact,acute,μgc.e./bee,0.021,adult
+Thiamethoxam,contact,chronic,μgc.e./bee,0.03,larva
+Acetamiprid,oral,acute,µga.i/bee,8.96,adult
+Acetamiprid,contact,acute,µga.i/bee,10.53,adult
+Acetamiprid,oral,acute,µga.i/bee,1.16,larva
